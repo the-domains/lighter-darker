@@ -1,0 +1,14 @@
+layout_spectrum: 0.35904284310527146
+typography_spectrum: 0.7239785816054791
+color:
+  brandStrength: 0.25094073894433677
+  lightness: 0.481247681658715
+  saturation: 0.9515119902789593
+  rhythmicContrast: 0.8138497250620276
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: lighter darker
