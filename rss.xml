@@ -4,7 +4,7 @@
         <description><![CDATA[lighter/darker]]></description>
         <link>https://thegrid.ai/lighter-darker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 19:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 20:04:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lighter-darker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/lighter-darker/lighterdarker-2005/index.html</link>
             <guid isPermaLink="false">2f925863-ab1e-41f4-9088-13e75fa1952a</guid>
             <pubDate>Fri, 20 May 2016 19:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://twitter.com/lighterdarker</p>]]></description>
-            <link>https://thegrid.ai/lighter-darker/httpstwittercomlighterdarker/index.html</link>
-            <guid isPermaLink="false">4d73ba23-569f-46da-a55b-eb94bd898c69</guid>
-            <pubDate>Fri, 20 May 2016 19:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
