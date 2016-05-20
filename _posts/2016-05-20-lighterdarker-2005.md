@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lighter/Darker 2005
-datePublished: '2016-05-20T19:38:50.925Z'
-dateModified: '2016-05-20T19:38:40.605Z'
+datePublished: '2016-05-20T19:58:45.835Z'
+dateModified: '2016-05-20T19:38:56.399Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-lighterdarker-2005.md
