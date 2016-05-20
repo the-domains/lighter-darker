@@ -1,14 +1,29 @@
+name: lighter darker
+favicon: null
 layout_spectrum: 0.35904284310527146
 typography_spectrum: 0.7239785816054791
+title: lighterdarker
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
   brandStrength: 0.25094073894433677
   lightness: 0.481247681658715
   saturation: 0.9515119902789593
   rhythmicContrast: 0.8138497250620276
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-name: lighter darker
+purpose: []
