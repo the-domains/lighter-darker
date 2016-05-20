@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lighter darker]]></title>
-        <description><![CDATA[lighter darker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[l/d]]></title>
+        <description><![CDATA[l/d]]></description>
+        <link>https://thegrid.ai/lighter-darker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 19:06:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 19:10:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lighter-darker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://twitter.com/lighterdarker</p>]]></description>
+            <link>https://thegrid.ai/lighter-darker/httpstwittercomlighterdarker/index.html</link>
+            <guid isPermaLink="false">4d73ba23-569f-46da-a55b-eb94bd898c69</guid>
+            <pubDate>Fri, 20 May 2016 19:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c6e183-aac2-4472-b2f2-db22db6d6cc5.jpg">]]></description>
-            <link>undefinedlighterdarker-2005/index.html</link>
+            <link>https://thegrid.ai/lighter-darker/lighterdarker-2005/index.html</link>
             <guid isPermaLink="false">2f925863-ab1e-41f4-9088-13e75fa1952a</guid>
             <pubDate>Fri, 20 May 2016 19:06:49 GMT</pubDate>
         </item>
