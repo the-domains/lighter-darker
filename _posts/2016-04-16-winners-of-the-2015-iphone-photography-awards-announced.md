@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T18:10:49.173Z'
+datePublished: '2016-05-20T18:10:49.356Z'
 sourcePath: _posts/2016-04-16-winners-of-the-2015-iphone-photography-awards-announced.md
 inFeed: true
 isBasedOnUrl: 'http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/'
@@ -17,7 +17,7 @@ keywords:
   - poland
 related: []
 author: []
-dateModified: '2016-05-20T18:10:48.887Z'
+dateModified: '2016-05-20T18:10:48.846Z'
 title: Winners of the 2015 iPhone Photography Awards Announced
 app_links: []
 publisher:
