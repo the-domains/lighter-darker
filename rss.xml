@@ -4,14 +4,21 @@
         <description><![CDATA[lighter/darker]]></description>
         <link>https://thegrid.ai/lighter-darker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 20:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 20:06:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lighter-darker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c6e183-aac2-4472-b2f2-db22db6d6cc5.jpg">]]></description>
             <link>https://thegrid.ai/lighter-darker/lighterdarker-2005/index.html</link>
             <guid isPermaLink="false">2f925863-ab1e-41f4-9088-13e75fa1952a</guid>
-            <pubDate>Fri, 20 May 2016 19:58:45 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 20:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from lighterdarker (@lighterdarker). Make it lighter...darker. http://t.co/6uPtYJMopH. Los Angeles</p>]]></description>
+            <link>https://twitter.com/lighterdarker</link>
+            <guid isPermaLink="false">57aefbad-753f-4c62-9fdc-dc3a66b0e34f</guid>
+            <pubDate>Fri, 20 May 2016 20:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
