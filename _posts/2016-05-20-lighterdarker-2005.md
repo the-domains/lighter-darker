@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '2005'
-datePublished: '2016-05-20T20:05:53.414Z'
-dateModified: '2016-05-20T20:05:26.987Z'
+description: ''
+datePublished: '2016-05-21T09:18:39.066Z'
+dateModified: '2016-05-21T09:18:32.970Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-lighterdarker-2005.md
@@ -17,7 +17,6 @@ url: lighterdarker-2005/index.html
 _type: Article
 
 ---
-2005
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c6e183-aac2-4472-b2f2-db22db6d6cc5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/646a42d6-c82f-4f41-b6fd-20622f683c24.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90af4546-5a3a-4d39-ab5c-ba58e655bb98.jpg)
